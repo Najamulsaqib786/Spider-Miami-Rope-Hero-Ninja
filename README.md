@@ -26,8 +26,7 @@ As the **Indie Game Developer**, I handled:
 ## 📲 Play the Game
 🔗 [Google Play Store](https://play.google.com/store/apps/details?id=com.zams.miami.spider.gangster.hero.man)
 
-## 📷 Screenshots
-(Include gameplay images here)
+
 
 ## 📜 About the Development
 - Built using **Unity Engine**
